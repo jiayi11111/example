@@ -1,0 +1,23 @@
+body{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+
+
+
+.container{
+    height:500px;
+    display: flex;
+    background-color: aqua;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.item{
+    background: pink;
+    width:100px;
+    height:100px;
+    margin:20px;
+
+}

@@ -1,0 +1,13 @@
+.font{
+    font-size:30px;
+}
+
+.background{
+    background-color: aquamarine;
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 500px){
+    .background{
+        background-color: purple;
+    }
+}

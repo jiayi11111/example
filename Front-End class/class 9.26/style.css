@@ -1,0 +1,60 @@
+/* .try{
+    font-family: 'Nabla', cursive;
+  
+} */
+*{
+    margin:0;
+    padding:0;
+}
+
+.leftSide{
+  
+    list-style: none;
+    float:left;
+
+}
+
+.rightSide{
+    list-style: none;
+    float:right;
+}
+
+.menuItem{
+    display: inline-block;
+}
+
+.signIn{
+    background-color: rgb(0, 153, 255);
+    color:white;
+    border:1px solid #4285f4;
+    margin:20px;
+    font-weight:bold;
+    height:30px;
+
+}
+
+
+.main{
+    margin: 0 auto;
+}
+.mainImageContainer{
+   
+    text-align: center;
+}
+
+.searchBox{
+    width:600px;
+    margin: 0 auto;
+}
+
+.Input{
+    width: 100%;
+}
+
+.searchIcon svg {
+    margin-top: 15px;
+    fill: #9aa0a6;
+    height: 20px;
+    width: 20px;
+    margin-left: 15px;
+  }

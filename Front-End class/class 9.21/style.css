@@ -1,0 +1,19 @@
+h1{
+    color: navy;
+}
+
+/*id 用# */
+/* 两个css 用在同一个地方就在html 中给相对应的tag 加上另外的class= 两个class
+margin: outside the element
+padding: inside the element 
+border:边框
+
+*/
+
+
+.background-color
+ {background-color:rgb(193, 228, 159) ;}
+
+.red{
+    font-size: 30px;
+}
